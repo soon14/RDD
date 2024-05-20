@@ -1,0 +1,9 @@
+datasets/
+yolov8n.pt
+<<<<<<< HEAD
+yolov9c.pt
+yolov9e.pt
+ultralytics/runs/
+yolov9c_results/
+=======
+>>>>>>> 31180ee25a47f1ef4550332a081df6a707f009a2
